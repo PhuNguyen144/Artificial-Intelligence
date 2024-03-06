@@ -1,1 +1,1 @@
-# Artificial-Intelligence
+# CS300 - Artificial Intelligence
